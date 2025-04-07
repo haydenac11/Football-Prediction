@@ -15,7 +15,7 @@ This repository contains the notebooks which our group created to work on models
 │   ├── data_1.csv                 # Original dataset produced from feature engineering
 │   ├── 24-25 Season.csv         # 2024/2025 season before feature engineering
 │   ├── E0.csv                  # 2014/2015 season before feature engineering
-│   ├── Premier League 2015-2024.csv # 2015/16-2023/24 seasons before feature engineering
+│   └── Premier League 2015-2024.csv # 2015/16-2023/24 seasons before feature engineering
 ├── models/                    # Directory storing all notebooks, notebooks containing more important code will be outside sub directories
 ├── scratch work/              # Directory storing notebooks which Contained work, but not the finalized models
 │   ├── 544FinalProjectRough1.ipynb    # notebook working on orginal 3-class data
