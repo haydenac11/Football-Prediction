@@ -1,4 +1,5 @@
 # Football-Prediction
+This repository contains the notebooks which our group created to work on models in hopes of predicting the outcome of football matches before they started, as a final project for our Machine Learning course CPSC 544.
 ### Project Structure
 
 ```
@@ -30,3 +31,19 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+### Dataset
+
+We'll be using a dataset containing statistcs from English Premier League Football matches which can be found at this link:  
+https://www.football-data.co.uk/englandm.php
+
+### Requirements
+
+- Python 3.8+
+- Sci-kit Learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter
+- xgboost
+- lightgbm
